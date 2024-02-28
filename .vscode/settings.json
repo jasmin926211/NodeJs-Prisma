@@ -1,0 +1,4 @@
+{
+  "prisma.fileWatcher": true,
+  "editor.defaultFormatter": "Prisma.prisma"
+}
